@@ -30,23 +30,33 @@ The worksheets on the [Flutter Course homepage](https://manighahrmani.github.io/
 
 ### Fork the Repository
 
-Open this repository on GitHub and click **Fork**:
+Open this repository on GitHub and click **Fork**, as shown below:
 
 [https://github.com/manighahrmani/southsea_cinema/fork](https://github.com/manighahrmani/southsea_cinema/fork)
 
-Do not change the repository name. Your fork should be called `southsea_cinema` and should have a URL like this:
+![Clicking the Fork button on GitHub](images/step1_fork_button.png)
+
+On the "Create a new fork" page, leave the default options as they are (do not change the repository name) and click **Create fork**:
+
+![Creating a new fork on GitHub](images/step1_create_fork.png)
+
+Your fork should be called `southsea_cinema` and should have a URL like this:
 
 ```text
 https://github.com/YOUR-USERNAME/southsea_cinema
 ```
 
-Screenshot placeholder: `images/step1_fork_button.png`
-
-Screenshot placeholder: `images/step1_create_fork.png`
-
 ### Clone Your Forked Repository
 
-If you are using VS Code locally, open a terminal and run:
+On your forked repository page, click the green **Code** button and copy the HTTPS URL, as shown below:
+
+![Copying the clone URL from GitHub](images/step2_clone_repository.png)
+
+If you are using VS Code, open the Source Control panel and click **Clone Repository** (or open the Command Palette with `Ctrl+Shift+P` / `Cmd+Shift+P` and choose "Git: Clone"), then paste the URL you copied:
+
+![Cloning the repository from VS Code](images/step2_open_in_vscode.png)
+
+Alternatively, if you are using a terminal, run:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/southsea_cinema.git
@@ -55,13 +65,13 @@ cd southsea_cinema
 
 Replace `YOUR-USERNAME` with your GitHub username.
 
-Screenshot placeholder: `images/step2_clone_repository.png`
-
-Screenshot placeholder: `images/step2_open_in_vscode.png`
-
 ### Install Dependencies
 
-Run:
+When you open the project, VS Code may show a popup asking if you want to fetch missing packages. If you see it, click **Run 'pub get'**, as shown below:
+
+![VS Code prompting to run pub get](images/step3_flutter_pub_get_better.png)
+
+If you do not see this popup, open a terminal and run the command manually:
 
 ```bash
 flutter pub get
@@ -69,7 +79,7 @@ flutter pub get
 
 This downloads the Flutter packages needed by the starter app.
 
-Screenshot placeholder: `images/step3_flutter_pub_get.png`
+![Running flutter pub get in the terminal](images/step3_flutter_pub_get.png)
 
 ### Run the Application
 
@@ -85,9 +95,9 @@ or:
 flutter run -d edge
 ```
 
-The app should open in your browser and show the Southsea Cinema starter home page.
+The app should open in your browser and show the Southsea Cinema starter home page, as shown below:
 
-Screenshot placeholder: `images/step4_run_app.png`
+![Starter app running in Chrome](images/step4_run_app.png)
 
 ### Use Mobile View
 
@@ -96,12 +106,13 @@ The coursework should be designed mobile-first.
 In Chrome or Edge:
 
 1. Right-click the page and choose **Inspect**
-2. Click the **Toggle device toolbar** button
-3. Choose a phone-sized device preset
+2. Click the **Toggle device toolbar** button, highlighted below:
 
-Screenshot placeholder: `images/step5_open_devtools.png`
+![Toggle device toolbar button in Chrome DevTools](images/step5_open_devtools.png)
 
-Screenshot placeholder: `images/step5_mobile_view.png`
+3. Choose a phone-sized device preset from the dropdown menu:
+
+![Selecting a mobile device preset](images/step5_mobile_view.png)
 
 ## Marking Criteria
 
@@ -155,24 +166,13 @@ You will add more files and folders as the coursework develops.
 
 Use the worksheets on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/) as your main guide.
 
+To get support with this coursework, post a message in the **Flutter** channel on the [Discord server](https://portdotacdotuk-my.sharepoint.com/:p:/g/personal/mani_ghahremani_port_ac_uk/IQCMJP6IiR_bQoYUMdXJSRDYAbk2rXFlTECe8c4HNrXxpqI) and ask your question there. Otherwise, attend your timetabled practical session and ask a member of staff for help.
+
 If you get stuck:
 
 - Ask for help in your practical session
-- Use the module Discord channel
+- Post in the Flutter channel on Discord
 - Check that your app still runs before making more changes
 - Commit your work regularly with clear commit messages
 
 Use AI tools carefully. You are allowed to use them, but you must understand, review, and adapt any generated code before adding it to your coursework.
-
-## Suggested Screenshots to Add Later
-
-When preparing final screenshots for this README, capture:
-
-1. GitHub fork button
-2. GitHub create fork page
-3. VS Code clone repository command
-4. VS Code project open with `pubspec.yaml` visible
-5. Terminal after `flutter pub get`
-6. Terminal running `flutter run -d chrome`
-7. Browser showing the starter app
-8. Browser DevTools mobile view
