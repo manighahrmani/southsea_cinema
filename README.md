@@ -116,11 +116,11 @@ In Chrome or Edge:
 
 ## Marking Criteria
 
-This repository is the starting point for your Southsea Cinema coursework. You will be assessed through five practical demo checkpoints during the teaching block. Each demo checks:
+This repository is the starting point for your Southsea Cinema coursework. You will be assessed through five practical demo checkpoints during the teaching block. Each demo is worth an equal 10% of the module mark (50% in total) and is marked out of 10:
 
-- Functionality: what your app can do
-- Quality: how well your code is organised
-- Understanding: whether you can explain your own work
+- **Functionality (0-4)**: what your app can do by this point in the schedule
+- **Quality (0-2)**: how well your code is organised
+- **Understanding (0-4)**: whether you can explain your own work when answering questions
 
 The full demo dates and requirements are listed on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/).
 
@@ -166,7 +166,7 @@ You will add more files and folders as the coursework develops.
 
 Use the worksheets on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/) as your main guide.
 
-To get support with this coursework, post a message in the **Flutter** channel on the [Discord server](https://portdotacdotuk-my.sharepoint.com/:p:/g/personal/mani_ghahremani_port_ac_uk/IQCMJP6IiR_bQoYUMdXJSRDYAbk2rXFlTECe8c4HNrXxpqI) and ask your question there. Otherwise, attend your timetabled practical session and ask a member of staff for help.
+To get support with this coursework, follow [discord_flutter.pptx](https://portdotacdotuk-my.sharepoint.com/:p:/g/personal/mani_ghahremani_port_ac_uk/IQCMJP6IiR_bQoYUMdXJSRDYAWnajEALZYEXFZyrJkHS1QU) and ask your question in the **Flutter** channel. Otherwise, attend your timetabled practical session and ask a member of staff for help.
 
 If you get stuck:
 
