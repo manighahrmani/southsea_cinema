@@ -116,17 +116,17 @@ In Chrome or Edge:
 
 ## Marking Criteria
 
-This repository is the starting point for your Southsea Cinema coursework, which is **Item 1** of your module and worth **50% of the overall module mark**. Item 1 is assessed as a **portfolio**: you build the app in **five stages** and demonstrate each stage to a member of staff during your timetabled practical session.
+This repository is the starting point for your Southsea Cinema coursework, which is **Item 1** of your module and worth **50% of the overall module mark**. Item 1 is assessed as a portfolio: you build the app in five stages and demonstrate each stage to a member of staff during your timetabled practical session.
 
-There are **five demos**, but only your **best four count** towards Item 1, so you can miss (or do poorly on) one without harming your mark. Each demo is worth **25% of Item 1** (12.5% of the module) and is marked on three things:
+There are five demos, but only your best four count towards Item 1, so you can miss (or do poorly on) one without harming your mark. Each demo is worth 25% of Item 1 (12.5% of the module) and is marked on three things:
 
-- **Functionality (9% of Item 1)**: what your app can do by this point in the schedule
-- **Quality (8% of Item 1)**: how well your code is organised
-- **Understanding (8% of Item 1)**: whether you can answer two questions about your own work
+- Functionality (9% of Item 1): what your app can do by this point in the schedule
+- Quality (8% of Item 1): how well your code is organised
+- Understanding (8% of Item 1): whether you can answer two questions about your own work
 
-Demos take place in your timetabled practical session, and **only one demo can happen per window**. If you miss a demo, you demonstrate the missed stage at the next window. Missing two demos caps Item 1 at **75%** (37.5% of the module), and so on.
+Demos take place in your timetabled practical session, and only one demo can happen per window. If you miss a demo, you demonstrate the missed stage at the next window. Missing two demos caps Item 1 at 75% (37.5% of the module), and so on.
 
-📄 **For the full mark breakdown, the missed-demo rules, and how Extenuating Circumstances affect Item 1, read the [Assessment Guide](https://portdotacdotuk-my.sharepoint.com/:w:/g/personal/mani_ghahremani_port_ac_uk/IQC9nZoNwb2jT40MnFQPZWVvAVdTK2PGBmZ8jPff30RRyPc?e=w7Yrgi).** The full demo dates and requirements are listed on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/).
+For the full mark breakdown, the missed-demo rules, and how Extenuating Circumstances affect Item 1, read the [Assessment Guide](https://portdotacdotuk-my.sharepoint.com/:w:/g/personal/mani_ghahremani_port_ac_uk/IQC9nZoNwb2jT40MnFQPZWVvAVdTK2PGBmZ8jPff30RRyPc?e=w7Yrgi). The full demo dates and requirements are listed on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/).
 
 ## Submission
 
@@ -170,7 +170,7 @@ You will add more files and folders as the coursework develops.
 
 Use the worksheets on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/) as your main guide.
 
-To get support with this coursework, follow [discord_flutter.pptx](https://portdotacdotuk-my.sharepoint.com/:p:/g/personal/mani_ghahremani_port_ac_uk/IQCMJP6IiR_bQoYUMdXJSRDYAWnajEALZYEXFZyrJkHS1QU) and ask your question in the **Flutter** channel. Otherwise, attend your timetabled practical session and ask a member of staff for help.
+To get support with this coursework, follow the [Discord guide](https://portdotacdotuk-my.sharepoint.com/:p:/g/personal/mani_ghahremani_port_ac_uk/IQCMJP6IiR_bQoYUMdXJSRDYAWnajEALZYEXFZyrJkHS1QU) and ask your question in the Flutter channel. Otherwise, attend your timetabled practical session and ask a member of staff for help.
 
 If you get stuck:
 
