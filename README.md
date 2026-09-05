@@ -168,15 +168,4 @@ You will add more files and folders as the coursework develops.
 
 ## Help with Coursework
 
-Use the worksheets on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/) as your main guide.
-
-To get support with this coursework, follow the [Discord guide](https://portdotacdotuk-my.sharepoint.com/:p:/g/personal/mani_ghahremani_port_ac_uk/IQCMJP6IiR_bQoYUMdXJSRDYAWnajEALZYEXFZyrJkHS1QU) and ask your question in the Flutter channel. Otherwise, attend your timetabled practical session and ask a member of staff for help.
-
-If you get stuck:
-
-- Ask for help in your practical session
-- Post in the Flutter channel on Discord
-- Check that your app still runs before making more changes
-- Commit your work regularly with clear commit messages
-
-Use AI tools carefully. You are allowed to use them, but you must understand, review, and adapt any generated code before adding it to your coursework.
+If you have questions or encounter issues while working on this coursework, use the [Discord guide](https://portdotacdotuk-my.sharepoint.com/:p:/g/personal/mani_ghahremani_port_ac_uk/IQCMJP6IiR_bQoYUMdXJSRDYAWnajEALZYEXFZyrJkHS1QU) to find the dedicated Discord channel and ask for help. Before posting a new question, check the existing posts to see if your question has already been answered. You can also attend your timetabled practical sessions to get face-to-face support from teaching staff.
