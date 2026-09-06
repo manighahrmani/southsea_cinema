@@ -8,7 +8,7 @@ Your task is to recreate a mobile-friendly version of the Southsea Cinema websit
 
 Reference website: [Southsea Cinema](https://southseacinema.savoysystems.co.uk/SouthseaCinema.dll/)
 
-The starter app is deliberately minimal. It contains only a basic theme, an empty home page, a small drawer, and a default widget test. You are expected to add screens, widgets, data models, tests, persistence, and cloud services during the coursework.
+We have provided a starter app for this coursework which is deliberately minimal. It contains only a basic theme, an empty home page, a small drawer, and a default widget test. You are expected to add screens, widgets, data models, tests, persistence, and cloud services during the coursework.
 
 ## Getting Started
 
@@ -97,7 +97,7 @@ flutter run -d edge
 
 The app should open in your browser and show the Southsea Cinema starter home page, as shown below:
 
-![Starter app running in Chrome](images/step4_run_app.png)
+![Starter app running in Edge](images/step4_run_app.png)
 
 ### Use Mobile View
 
@@ -130,7 +130,7 @@ For the full mark breakdown, the missed-demo rules, and how Extenuating Circumst
 
 ## Submission
 
-You will submit the link to your public forked repository on Moodle when instructed. You are not submitting a zip file or a copy of the source code.
+You will submit the link to your public forked repository on Moodle before the first demo. You are not submitting a zip file or a copy of the source code.
 
 Make sure your repository is public. Test this by opening your repository link in a private/incognito browser window.
 
