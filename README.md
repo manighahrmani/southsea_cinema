@@ -108,7 +108,7 @@ In Chrome or Edge:
 1. Right-click the page and choose **Inspect**
 2. Click the **Toggle device toolbar** button, highlighted below:
 
-![Toggle device toolbar button in Chrome DevTools](images/step5_open_devtools.png)
+    ![Toggle device toolbar button in Chrome DevTools](images/step5_open_devtools.png)
 
 3. Choose a phone-sized device preset from the dropdown menu:
 
