@@ -8,7 +8,7 @@ Your task is to recreate a mobile-friendly version of the Southsea Cinema websit
 
 Reference website: [Southsea Cinema](https://southseacinema.savoysystems.co.uk/SouthseaCinema.dll/)
 
-We have provided a starter app for this coursework which is deliberately minimal. It contains only a basic theme, an empty home page, a small drawer, and a default widget test. You are expected to add screens, widgets, data models, tests, persistence, and cloud services during the coursework.
+The starter app is deliberately minimal. It contains only a basic theme, an empty home page, a small drawer, and a default widget test. You are expected to add screens, widgets, data models, tests, persistence, and cloud services during the coursework.
 
 ## Getting Started
 
@@ -20,13 +20,7 @@ You need:
 - A way to edit and run Flutter projects
 - Git installed and connected to your GitHub account
 
-You have three development options:
-
-1. GitHub Codespaces (browser-based, no local install required)
-2. University Windows computers
-3. Your own computer
-
-The worksheets on the [Flutter Course homepage](https://manighahrmani.github.io/sandwich_shop/) explain these options in more detail.
+Follow the [development environment instructions in Worksheet 1](https://manighahrmani.github.io/sandwich_shop/worksheet-1.html#set-up-your-development-environment). You can use your own device or access the university machines remotely.
 
 ### Fork the Repository
 
@@ -54,7 +48,7 @@ On your forked repository page, click the green **Code** button and copy the HTT
 
 If you are using VS Code, open the Source Control panel and click **Clone Repository** (or open the Command Palette with `Ctrl+Shift+P` / `Cmd+Shift+P` and choose "Git: Clone"), then paste the URL you copied:
 
-![Cloning the repository from VS Code](images/step2_open_in_vscode.png)
+![Cloning your fork in VS Code](images/step2_open_in_vscode.png)
 
 Alternatively, if you are using a terminal, run:
 
@@ -97,7 +91,7 @@ flutter run -d edge
 
 The app should open in your browser and show the Southsea Cinema starter home page, as shown below:
 
-![Starter app running in Edge](images/step4_run_app.png)
+![Starter app running in Chrome](images/step4_run_app.png)
 
 ### Use Mobile View
 
@@ -108,11 +102,11 @@ In Chrome or Edge:
 1. Right-click the page and choose **Inspect**
 2. Click the **Toggle device toolbar** button, highlighted below:
 
-    ![Toggle device toolbar button in Chrome DevTools](images/step5_open_devtools.png)
+![Toggle device toolbar button in Chrome DevTools](images/step5_open_devtools.png)
 
 3. Choose a phone-sized device preset from the dropdown menu:
 
-![Selecting a mobile device preset](images/step5_mobile_view.png)
+![Selecting a phone-sized device preset](images/step5_mobile_view.png)
 
 ## Marking Criteria
 
